@@ -9,7 +9,7 @@ comments: false
   babylon decentral
 </div>
 
-We get involved in Proof-of-Stake projects because we care for web 3.0 and decentralisation.
+We get involved in Proof-of-Stake projects because we care about web 3.0 and decentralisation.
 
 We run nodes, craft code and engineer docs. With a crush on the Polkadot ecosystem.
 
